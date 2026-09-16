@@ -1,0 +1,5 @@
+fix19 audit target
+- text/lyrics tightened and corrected to lower-case ACME !scr text
+- bloated per-point neon wire placeholder removed
+- final wire effect now calls the real atlas-driven WireframeGridRender
+- stale build artifact not included

@@ -1,0 +1,24 @@
+FIX21 REMOVE VORTEX/WIRE + SHORTCUT AUDIT
+
+NUM_PARTS=26
+Removed active parts: vx/vortex and nw/neon wire
+Part frames: [150, 165, 165, 156, 165, 208, 165, 200, 182, 217, 191, 200, 208, 191, 217, 200, 208, 250, 182, 182, 182, 208, 200, 250, 190, 200]
+Transition cardTimer: 65
+
+PartBorderTbl: 26
+PartBgTbl: 26
+PartFramesTbl_Lo: 26
+PartFramesTbl_Hi: 26
+CardNameLo: 26
+CardNameHi: 26
+CardSubLo: 26
+CardSubHi: 26
+InitTbl: 26 entries
+  ti_init, pl_init, hs_init, xr_init, wv_init, tn_init, ss_init, ts_init, hv_init, mc_init, yw_init, tb_init, gh_init, rg_init, cg_init, sp_init, bo_init, rc_init, PortedInit, PortedInit, PortedInit, ic_init, gt_init, cv_init, mb_init, rb_init
+UpdateTbl: 26 entries
+  ti_update, pl_update, hs_update, xr_update, wv_update, tn_update, ss_update, ts_update, hv_update, mc_update, yw_update, tb_update, gh_update, rg_update, cg_update, sp_update, bo_update, rc_update, SolarFlareRender, PrismGateRender, TwistLatticeRender, ic_update, gt_update, cv_update, mb_update, rb_update
+CardName defs: 26
+CardSub defs: 26
+global labels: 402
+
+RESULT: PASS

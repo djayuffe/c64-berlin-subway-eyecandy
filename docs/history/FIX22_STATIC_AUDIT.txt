@@ -1,0 +1,8 @@
+FIX22 STATIC AUDIT
+errors=0
+labels=375
+InitTbl=26
+UpdateTbl=26
+CardName=26
+CardSub=0
+RESULT: PASS
