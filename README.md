@@ -27,3 +27,7 @@ The original archive described a four-minute loop with stations including Flugha
 ## License
 
 GPL-3.0-or-later. See [LICENSE](LICENSE).
+
+## Live VICE capture
+
+![Running C64 Berlin Subway Eyecandy](assets/live-vice.png)
